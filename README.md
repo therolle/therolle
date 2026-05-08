@@ -1,4 +1,4 @@
-### RolF Koski
+### Rolf Koski
  
 Co-founder & CTO at [Elexive](https://elexive.com), Tampere. AWS Hero. AI since 2007.
  
